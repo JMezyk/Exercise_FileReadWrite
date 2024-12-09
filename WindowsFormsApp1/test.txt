@@ -1,0 +1,5 @@
+krokodyl	1x2	1x3
+2x1	słoń	2x3
+3x1	kot	3x3
+AQQ	4x2	4x3
+line5	element2	eof
